@@ -8,7 +8,5 @@
 * #### Enable two-factor authentication wherever possible  
 * #### Regularly check bank statements for unusual transactions  
 * #### Do not trust calls claiming to be from banks without verification  
-* #### Immediately report fraud on cybercrime.gov.in  
-* #### Call the cybercrime helpline number 1930 for quick assistance  
 * #### **Helpline:** Call **1930** (National Cyber Crime Helpline Number).
 * #### **Online Portal:** Lodge a formal complaint at **cybercrime.gov.in.** or "*Central Government Scheme*" links. Check the URL—official Indian government sites always end in '.gov.in' or '.nic.in'.
