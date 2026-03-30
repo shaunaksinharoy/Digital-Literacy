@@ -44,7 +44,7 @@ The project is organized into five tasks, each corresponding to a course module.
 | Task | Tool / Platform | Link / Resource |
 |------|-----------------|-----------------|
 | Task 1 | Canva (Infographic) | https://www.canva.com |
-| Task 2 | GitHub Profile |  |
+| Task 2 | GitHub Profile | https://github.com/shaunaksinharoy/Digital-Literacy |
 | Task 2 | LinkedIn Profile | www.linkedin.com/in/shaunak-sinha-roy-153a05394 |
 | Task 3 | Coding Platform (HackerRank) |  |
 | Task 3 | Google Form | https://docs.google.com/forms/d/e/1FAIpQLSc2-DlGeNarR6zN3VAKcTbMCX7bDEMcbZA0cWa8K60UD6602A/viewform?usp=publish-editor |
@@ -57,7 +57,7 @@ The project is organized into five tasks, each corresponding to a course module.
 For any questions or feedback regarding this project, please feel free to reach out.
 
 - **Email:** shaunak.25bec10032@vitbhopal.ac.in
-- **GitHub:** 
+- **GitHub:** https://github.com/shaunaksinharoy/Digital-Literacy
 - **LinkedIn:** www.linkedin.com/in/shaunak-sinha-roy-153a05394
 
 ---
