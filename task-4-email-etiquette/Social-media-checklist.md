@@ -1,0 +1,8 @@
+Social Media Best Practices for Students:
+
+                         Do's                                                                              Don'ts
+a.Audit your privacy settings regularly to control who sees your personal posts.     a.Post "venting" sessions about specific professors, classes, or employers.
+b.Use a professional headshot and a clean bio on platforms like LinkedIn.            b.Share illegal or questionable activity, even if you think the post is "private."
+c.Think before you tag friends in photos that might embarrass them professionally.   c.Engage with "rage bait" or heated online arguments that can be screenshotted.
+d.Network with alumni and industry professionals in your field of study.             d.Plagiarise or share protected course materials and exam answers.
+e.Google yourself occasionally to see what a recruiter or admissions officer sees.   e.Ignore the "Grandmother Rule": If you wouldn't want your nan to see it, don't post it.
