@@ -46,7 +46,7 @@ The project is organized into five tasks, each corresponding to a course module.
 | Task 1 | Canva (Infographic) | https://www.canva.com |
 | Task 2 | GitHub Profile | https://github.com/shaunaksinharoy/Digital-Literacy |
 | Task 2 | LinkedIn Profile | www.linkedin.com/in/shaunak-sinha-roy-153a05394 |
-| Task 3 | Coding Platform (HackerRank) |  |
+| Task 3 | Coding Platform (HackerRank) | https://www.hackerrank.com/profile/shaunak_25bec101 |
 | Task 3 | Google Form | https://docs.google.com/forms/d/e/1FAIpQLSc2-DlGeNarR6zN3VAKcTbMCX7bDEMcbZA0cWa8K60UD6602A/viewform?usp=publish-editor |
 | Task 5 | National Cyber Crime Portal | https://cybercrime.gov.in |
 
